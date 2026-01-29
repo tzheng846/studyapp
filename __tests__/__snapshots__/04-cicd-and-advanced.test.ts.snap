@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Lesson 5: Snapshot Testing generates correct report structure 1`] = `
+{
+  "sessionId": "session-123",
+  "status": "GOOD",
+  "summary": {
+    "averageViolationsPerPerson": 2.5,
+    "durationMinutes": 60,
+    "participantCount": 2,
+    "totalViolations": 5,
+  },
+}
+`;
